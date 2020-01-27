@@ -8,7 +8,21 @@ An example api that uses JWT (JSON Web Token).
 
 </h4>
 <p align="center">
- 
+   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EricASilva/api-jwt-tutorial">
+  
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EricASilva/api-jwt-tutorial">
+  
+  <a href="https://www.codacy.com/app/lukemorales/gobarber-api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/gobarber-api&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/70c8e79c83b442278f6c276ebf117ae4.svg">
+  </a>
+  
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EricASilva/api-jwt-tutorial">
+  <a href="https://github.com/EricASilva/api-jwt-tutorial/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EricASilva/api-jwt-tutorial">
+  </a>
+  
+  
+  <img alt="GitHub" src="https://img.shields.io/github/license/EricASilva/api-jwt-tutorial">  
 </p>
 
 <p align="center">
@@ -32,7 +46,7 @@ I needed an API for JWT authentication tests in React Native and this API helped
 -  [VS Code][vc] with [ESLint][vceslint]
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/gobarber-api/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/EricASilva/api-jwt-tutorial/blob/master/LICENSE) for more information.
 
 ---
 
